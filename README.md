@@ -1,21 +1,22 @@
 # 💫 About Me:
 Lucian Blaga University student and robotics enthusiast with a deep technical stack in AI (PyTorch, TensorFlow) and Embedded Systems. Experienced in developing autonomous projects like Micromouse and line-followers using C++, OpenCV, and Arduino for real-time hardware control. Proficient in Fusion 360 and CFD for mechanical design, with a strong foundation in DevOps (Docker, GitHub Actions) to streamline the development-to-hardware pipeline. \n
-
+<br>
 
 Project currently working on:
+<br>
 FFB (Force Feedback) BASIC Control | [![FFB Control](https://img.shields.io/badge/FFB_Control-005cf7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dani3l132/FFB_BASIC_Control)
 
   Developed a control system for Force Feedback hardware using C++, focusing on real-time signal processing and motor response accuracy.
-
+<br>
 International Robotics Championship - Oradea | [![IRC Oradea](https://img.shields.io/badge/IRC_Oradea-e03e33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InternationalRoboticsChampioship2023/oradea)
 
   Collaborated on high-performance robotics software for competitive environments, implementing optimized navigation algorithms and sensor fusion.
 
-Autonomous Micromouse
+Autonomous Micromouse | (Active Development)
 
   Engineered a compact autonomous robot capable of maze exploration and solving using Arduino and custom pathfinding logic. Focused on minimizing latency between infrared sensor data     and motor execution.
 
-Advanced Line-Follower (Active Development)
+Advanced Line-Follower | (Active Development)
 
   Designing a high-speed robot featuring active downforce via an Electronic Ducted Fan (EDF).
 
