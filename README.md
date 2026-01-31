@@ -17,12 +17,12 @@
 
 #### 🧠 Active Research & Development
 * **Autonomous Micromouse** `(Current Build)`
-  * Engineering a maze-solving robot designed for speed and precision using **Arduino**.
-  * Focused on minimizing the latency between infrared sensor input and motor execution.
+  >* Engineering a maze-solving robot designed for speed and precision using **Arduino**.
+  >* Focused on minimizing the latency between infrared sensor input and motor execution.
 
 * **Advanced Line-Follower** `(R&D Phase)`
-  * **Aerodynamics:** Utilizing **CFD** to implement an **Electronic Ducted Fan (EDF)** for active downforce.
-  * **Intelligence:** Implementing **Track-Learning** algorithms to map circuits and optimize velocity profiles.
+  >* **Aerodynamics:** Utilizing **CFD** to implement an **Electronic Ducted Fan (EDF)** for active downforce.
+  >* **Intelligence:** Implementing **Track-Learning** algorithms to map circuits and optimize velocity profiles.
 
 <br>
 
