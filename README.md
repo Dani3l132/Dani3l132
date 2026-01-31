@@ -3,7 +3,7 @@ Lucian Blaga University student and robotics enthusiast with a deep technical st
 
 
 Project currently working on:
-FFB (Force Feedback) BASIC Control | [![Github](https://github.com/InternationalRoboticsChampioship2023/oradea)]
+FFB (Force Feedback) BASIC Control | [![FFB Control](https://img.shields.io/badge/FFB_Control-005cf7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dani3l132/FFB_BASIC_Control)
 
   Developed a control system for Force Feedback hardware using C++, focusing on real-time signal processing and motor response accuracy.
 
