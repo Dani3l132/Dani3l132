@@ -1,29 +1,30 @@
 # 💫 About Me:
-Lucian Blaga University student and robotics enthusiast with a deep technical stack in AI (PyTorch, TensorFlow) and Embedded Systems. Experienced in developing autonomous projects like Micromouse and line-followers using C++, OpenCV, and Arduino for real-time hardware control. Proficient in Fusion 360 and CFD for mechanical design, with a strong foundation in DevOps (Docker, GitHub Actions) to streamline the development-to-hardware pipeline. \n
+>**Lucian Blaga University** student and robotics enthusiast with a deep technical stack in AI (PyTorch, TensorFlow) and Embedded Systems. Experienced in developing autonomous projects like Micromouse and line-followers using C++, OpenCV, and Arduino for real-time hardware control. Proficient in Fusion 360 and CFD for mechanical design, with a strong foundation in DevOps (Docker, GitHub Actions) to streamline the development-to-hardware pipeline.
+
 <br>
 
-Project currently working on:
+### 🚀 Featured Projects
+---
+
+#### 🛠️ Hardware Control & Competition
+* **FFB BASIC Control** [![FFB Control](https://img.shields.io/badge/FFB_Control-005cf7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dani3l132/FFB_BASIC_Control)
+  > Developed a real-time control system using **Arduino** and **C++** to manage motor response accuracy. This serves as the foundation for a custom **Force Feedback Steering Wheel** currently being engineered entirely from scratch.
+
+* **IRC Oradea (International Robotics Championship)** [![IRC Oradea](https://img.shields.io/badge/IRC_Oradea-e03e33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InternationalRoboticsChampioship2023/oradea)
+  > Deployed high-performance software and hardware solutions across three competitive categories: **Freestyle**, **Micromouse**, and **Linefollower**, implementing optimized sensor fusion and navigation logic.
+
 <br>
-FFB (Force Feedback) BASIC Control | [![FFB Control](https://img.shields.io/badge/FFB_Control-005cf7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dani3l132/FFB_BASIC_Control)
 
-  Developed a control system for Force Feedback hardware using C++, focusing on real-time signal processing and motor response accuracy.
+#### 🧠 Active Research & Development
+* **Autonomous Micromouse** `(Current Build)`
+  * Engineering a maze-solving robot designed for speed and precision using **Arduino**.
+  * Focused on minimizing the latency between infrared sensor input and motor execution.
+
+* **Advanced Line-Follower** `(R&D Phase)`
+  * **Aerodynamics:** Utilizing **CFD** to implement an **Electronic Ducted Fan (EDF)** for active downforce.
+  * **Intelligence:** Implementing **Track-Learning** algorithms to map circuits and optimize velocity profiles.
+
 <br>
-International Robotics Championship - Oradea | [![IRC Oradea](https://img.shields.io/badge/IRC_Oradea-e03e33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InternationalRoboticsChampioship2023/oradea)
-
-  Collaborated on high-performance robotics software for competitive environments, implementing optimized navigation algorithms and sensor fusion.
-
-Autonomous Micromouse | (Active Development)
-
-  Engineered a compact autonomous robot capable of maze exploration and solving using Arduino and custom pathfinding logic. Focused on minimizing latency between infrared sensor data     and motor execution.
-
-Advanced Line-Follower | (Active Development)
-
-  Designing a high-speed robot featuring active downforce via an Electronic Ducted Fan (EDF).
-
-  Implementing track-learning algorithms where the robot maps the circuit on the first lap to optimize speed profiles and aerodynamic pressure for subsequent laps.
-
-  Utilizing CFD (Computational Fluid Dynamics) to simulate airflow and ensure maximum tire grip through ducted-fan suction.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel._.alexandruu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alexandru-popa)
