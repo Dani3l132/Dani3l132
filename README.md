@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a student at University Lucian Blaga.<br>My main interest are programming, doing various project for different <br>competitions and hackatons, and tinkering with robots such as<br>line-followers and micro-mouse.<br>Besides programming, i have taken an interest in other physics related fields<br>such as aerodynamics and CFD.
+Lucian Blaga University student and robotics enthusiast with a deep technical stack in AI (PyTorch, TensorFlow) and Embedded Systems. Experienced in developing autonomous projects like Micromouse and line-followers using C++, OpenCV, and Arduino for real-time hardware control. Proficient in Fusion 360 and CFD for mechanical design, with a strong foundation in DevOps (Docker, GitHub Actions) to streamline the development-to-hardware pipeline.
 
 
 ## 🌐 Socials:
