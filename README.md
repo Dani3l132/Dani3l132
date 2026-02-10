@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 **Lucian Blaga University** student and robotics enthusiast with a deep technical stack in AI (PyTorch, TensorFlow) and Embedded Systems. Experienced in developing autonomous projects like Micromouse and line-followers using C++, OpenCV, and Arduino for real-time hardware control. Proficient in Fusion 360 and CFD for mechanical design, with a strong foundation in DevOps (Docker, GitHub Actions) to streamline the development-to-hardware pipeline.
 
 <br>
